@@ -1,5 +1,6 @@
 # cpf-validator
 Python project to validate Brazilian CPF numbers (Cadastro de Pessoa Física), correctly checking the verification digits according to the rules of the Brazilian Federal Revenue.
+
 This tool can be used in registration forms, data processing systems, or educational purposes.
 
 ## Features
